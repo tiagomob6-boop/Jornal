@@ -1,0 +1,21 @@
+Gabarito do caça-palavras (linha e coluna contadas a partir de 1, no canto superior esquerdo)
+
+CALORIA: começa na linha 6, coluna 1, para a direita
+DÉFICIT: começa na linha 1, coluna 9, para baixo
+ENERGIA: começa na linha 8, coluna 1, para a direita
+PROTEÍNA: começa na linha 2, coluna 8, para baixo
+SONO: começa na linha 1, coluna 5, para a direita
+SUPERÁVIT: começa na linha 10, coluna 2, para a direita
+TMB: começa na linha 2, coluna 5, para a direita
+ÁGUA: começa na linha 2, coluna 1, para baixo
+
+L F P U S O N O D I
+A E A T T M B P E B
+G U G U Q F V R F S
+U B O G N D G O I U
+A P U G R D O T C L
+C A L O R I A E I S
+R A M V O L A I T F
+E N E R G I A N G M
+U E M P G I D A O T
+N S U P E R A V I T
